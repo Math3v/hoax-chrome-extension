@@ -1,0 +1,14 @@
+html, body {
+  width: 400px;
+  height: 200px;
+}
+
+h1 {
+  text-align: left;
+  margin: 10px;
+}
+
+p {
+  text-align: left;
+  margin: 10px;
+}
