@@ -1,0 +1,1 @@
+/* popup.js (C) Matej Minarik */
